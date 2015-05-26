@@ -2,5 +2,5 @@
 	<li>Apples</li>
 	<li>Bananas</li>
 	<li>Milk</li>
-	<li>Vegetables</li>
+	<li>Vegetable</li>
 </ul>
